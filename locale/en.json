@@ -1,0 +1,33 @@
+{
+  "common": {
+    "next": "Next",
+    "skip": "Skip",
+    "done": "Done",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "close": "Close",
+    "continue": "Continue",
+    "back": "Back",
+    "save": "Save",
+    "send": "Send",
+    "search": "Search",
+    "logout": "Logout",
+    "all": "All",
+    "open": "Open",
+    "pending": "Pending",
+    "no_data": "No data"
+  },
+  "errors": {
+    "incorrect_credentials": "Password is incorrect",
+    "network_error": "Network error",
+    "please_enter_data": "Please enter valid data",
+    "password_mismatch": "Passwords do not match",
+    "password_too_short": "Password must be at least 8 characters",
+    "error_fetching_data": "Error fetching data",
+    "image_size": "Image size is too large",
+    "image_size_message": "Image size must be less than 5MB",
+    "please_wait_for_images": "Please wait until the images are uploaded",
+    "code_should_be_not_empty": "Company Code should not be empty",
+    "company_not_found": "Couldn't find company with this code. Please try again!"
+  }
+}
